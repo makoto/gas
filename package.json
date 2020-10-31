@@ -1,0 +1,10 @@
+{
+  "name": "gas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Makoto <inouemak@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.2.11"
+  }
+}
